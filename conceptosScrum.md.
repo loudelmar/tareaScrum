@@ -8,6 +8,10 @@
       Esta lista es **dinamica** y se va modificando con el tiempo.
       El propietario del *Product backlog* es el ***Product owner**** que debe encargarse de ingresar elementos a la lista y tambien de priorizarlos.
    **Sprint backlong : **
-
-
-   ** Incremento de producto : ** 
+        Es lo que conocemos comunmente como "tablero kanban". Se contruye durante el evento del sprint planning.Es un plan realizado por y para los Developers.
+        Se desglosan en tareas técnicas que el equipo irá desarrollando.
+        También es **dinamico** y puede irse modificando si el equipo asi lo decide. El propietario del SPRINT BACKLONG es el equipo de desarrollo.
+   ** Incremento de producto : **      
+        El equipo es responsable de presentar al final de cada sprint un incremento del producto potencialmente entregado. El incremento es la suma de todos los elementos 
+        del backlong completados durante el sprint  y el valor de los incrementos de los sprint anteriores.
+  

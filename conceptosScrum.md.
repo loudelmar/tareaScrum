@@ -14,4 +14,25 @@
    ** Incremento de producto : **      
         El equipo es responsable de presentar al final de cada sprint un incremento del producto potencialmente entregado. El incremento es la suma de todos los elementos 
         del backlong completados durante el sprint  y el valor de los incrementos de los sprint anteriores.
-  
+        
+        
+  PRODUCT BACKLOG
+ * * * * *  *
+ *          * 
+ *   US 1   *
+ *   US 2   *
+ *   US 3   *           
+ *          *            
+ * * * * *  *             SPRINT BACKLONG
+      *                   * * * * * * 
+      *                   *  US 1   *
+      ** * * * * * * * * **  US 2   * 
+                          * * * * * *
+                                *                        INCREMENT
+                                *                        * * * * * * * * * * * *     
+                                * * * * * * * * * * * * **                     *
+                                                         *      US 1           *
+                                                         *      US 2           *
+                                                         *  US sprint anterior *
+                                                         *                     *
+                                                         * * * * * * * * * * * *

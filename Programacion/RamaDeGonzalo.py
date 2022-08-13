@@ -1,14 +1,35 @@
-print("hello word")
+dueno2 =  [23546987, "Maria",  "Perez", 4789689,  "Pueyrredon  811"]
 
-gonzalo = 10
+for n in dueno2:
 
-print("ispc lo mejor")
+    if n == dueno2[0]:
+        continue
+    elif n == dueno2[2]:
+        continue
+    else:
+        print(n)
 
-def suma(num1, num2):
 
-suma1 = num1 + num2
-return suma1
 
-suma(2,2)
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+    
+    
+   
+    
 
 
